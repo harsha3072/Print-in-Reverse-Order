@@ -1,0 +1,6 @@
+a=input()
+b=input()
+string = ("-" * 3)
+print(b)
+print(string)
+print(a)
